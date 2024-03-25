@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+  box-sizing: border-box;
+  font-family: 'Jost', sans-serif;
+}
+.main{
+  width:100%;
+  height: 100%;
+}
+#btnToggle {
+  border: none;
+  background-color: white;
+}
+
+.manue-ul li {
+  margin-left: 20px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.main-nav {
+  height: 86px;
+}
+ 
+
+.nav-item a:hover {
+  color: royalblue;
+}
+
+#home-btn {
+  color: royalblue;
+}
+
+
+/* nav end */
+
+
+
+/* hero section */
+
+/* end hero section */
